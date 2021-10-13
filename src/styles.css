@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.count {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+fieldset {
+  margin-bottom: 1rem;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+label {
+  margin-right: 0.25rem;
+}
+input {
+  width: 3em;
+}
+button {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
